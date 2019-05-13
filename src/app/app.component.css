@@ -1,0 +1,22 @@
+.back-btn{
+    padding: 6px 10px;
+    background: #2e3fc3de;
+    color: #ffffff;
+    border: 0;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-variant-caps: all-small-caps;
+}
+
+.chart-div{
+    width: 85.5%;
+  height: px;
+  border: 1px solid #3366cc;
+ 
+}
+
+.btn-div{
+    width: 85.5%;
+    text-align: right;
+}
